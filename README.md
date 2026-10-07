@@ -9,3 +9,4 @@ For this project, I designed and implemented a **RISC/MIPS-based CPU using VHDL*
 
 This project gave me hands-on experience with **CPU architecture, digital logic, VHDL, FPGA development, and hardware design**. It also helped me understand how components such as the datapath, control unit, registers, and ALU work together to execute instructions.
 
+*Does not contain all program files*
